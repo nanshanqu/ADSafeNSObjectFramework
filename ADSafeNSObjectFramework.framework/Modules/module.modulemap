@@ -1,0 +1,6 @@
+framework module ADSafeNSObjectFramework {
+  umbrella header "ADSafeNSObjectFramework.h"
+
+  export *
+  module * { export * }
+}
